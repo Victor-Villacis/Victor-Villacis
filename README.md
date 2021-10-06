@@ -3,11 +3,11 @@
 
 <h3 align="center">Full Stack Javascript Developer from New Jersey</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/victor-villacis/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=victor-villacis&theme=light"/>
   </a>
-</p>
+</p> -->
 
 <p align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=victor-villacis&theme=light">
